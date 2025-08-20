@@ -27,9 +27,9 @@ Les participants peuvent alors exprimer leur vote en présentant leur marqueur A
 3. `Sur un côté` - Vote nul
 
 <p align="center">
-   <img src="images/OUI.png" alt="OUI" width="250"/>
-   <img src="images/NON.png" alt="NON" width="250"/>
-   <img src="images/VOTENUL.png" alt="NUL" width="300"/>
+   <img src="images/oui.png" alt="OUI" width="250"/>
+   <img src="images/non.png" alt="NON" width="250"/>
+   <img src="images/votenul.png" alt="NUL" width="300"/>
 </p>
 
 Une fois les questions épuisées, un histogramme affiche les résultats du vote pour chaque question. Des résultat détaillant qui à voter quoi sont également disponibles dans le fichier `resultats.txt`.
