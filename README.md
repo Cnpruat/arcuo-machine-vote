@@ -36,6 +36,7 @@ Les participants peuvent alors exprimer leur vote en présentant leur marqueur A
 </p>
 
 Une fois les questions épuisées, un histogramme affiche les résultats du vote pour chaque question. Des résultat détaillant qui à voter quoi sont également disponibles dans le fichier `resultats.txt`.
+
 ---
 
 # 📁 Structure du projet
