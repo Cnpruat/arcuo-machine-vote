@@ -28,7 +28,7 @@ Les participants peuvent alors exprimer leur vote en présentant leur marqueur A
 
 <p align="center">
    <img src="images/oui.png" alt="OUI" width="250"/>
-   <img src="images/non.png" alt="NON" width="250"/>
+   <img src="images/non.png" alt="NON" width="258"/>
 </p>
 
 <p align="center">
